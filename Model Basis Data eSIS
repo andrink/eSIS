@@ -1,0 +1,362 @@
+1. Landing Page eSIS Digimar
+  - Design	WebPage design
+  - Design	Logo design
+  - Design	Composition (notifikasi, pengumuman, etc) 
+  - Design	Login
+  - Content creator	Copywriting
+  - Content creator	Image editing
+
+2. Landing Page Sekolah/Pesantren
+  - Design	WebPage design
+  - Design	WebPage design
+  - Design	Logo design
+  - Design	Composition (notifikasi, pengumuman, etc) 
+  - Design	Login
+  - Content creator	Copywriting
+  - Content creator	Image editing
+  - Content creator	Kalender akademik
+
+3. Access (Authentication & Authorization)	Membership
+  - Membership registration	Phone entry (login MDN)
+  - Membership registration	Phone verification
+  - Membership management	Forget password processing
+  - Membership management	Edit/update details
+  - User roles & types	Super Admin (SA)
+  - User roles & types	Administrator
+  - User roles & types	Executive (Ketua Yayasan dan Kepala Sekolah)
+  - User roles & types	Orang tua murid
+  - User roles & types	Wali murid
+  - User roles & types	Murid
+  - User roles & types	Tenant / User
+
+4. Dashboard	Design
+  - Design	Dashboard
+  - Design	Logo design
+  - Design	Composition (notifikasi, pengumuman, etc)
+  - Design	logout
+  - Content	Statistik
+  - Content	Grafik dan diagram
+  - Content	FAQ
+  - Content	Pengaturan dan profil pengguna serta log aktfitas
+  - Content	Komunikasi (pesan/chat dan email, forum diskusi)
+  - Content	Akses cepat ke modul-modul utama
+
+5. Master Data	Manajemen Murid/Santri
+  - Nama
+  - Nama
+  - Jenis Kelamin
+  - NIS / NISN
+  - NIK
+  - Tempat, Tanggal Lahir
+  - Agama
+  - Rombel
+  - Nama Ayah, ibu dan Wali
+  - Tempat, tanggal lahir Ayah, ibu dan Wali
+  - Pekerjaan Ayah, ibu dan Wali
+  - Pendidikan Ayah, ibu dan Wali
+  - Penghasilan Ayah, ibu dan Wali
+  - Jenis Tinggal
+  - Alamat lengkap (rt, rw, kel/desa/dusun, Kec, Kab/Kota, Propinsi, Kodepos)
+  - Tinggi dan Berat Badan Peserta Didik/Santri
+  - Berkebutuhan Khusus
+  - Nomor tlp rumah dan Nomor hp
+  - Jarak Rumah ke sekolah
+  - Alat transport ke sekolah
+  - Email
+  - Penerima KIP/PIP
+  - Nomor KIP/PIP (apabila penerima)
+
+6. Master Data	Prestasi
+  - Bidang (tahfidz, Nadhoman/sastra/karangan buku)
+  - Tanggal mendapatka prestasi
+
+7. Master Data	Kartu Peserta Didik/Santri
+  - Pencetakan
+  - Penggantian 
+
+8. Master Data	Manajemen Pendidik (Guru/Ustadz) dan Tenaga Kependidikan
+  - Nama
+  - Jenis Kelamin
+  - NIY
+  - NIK
+  - Tempat, tanggal lahir
+  - Nama ibu kandung
+  - Status Guru/Ustad
+  - Tanggal surat mulai tugas/SK
+
+9. Master Data	Form Data Kepegawaian guru/ustad
+  - Status Kepegawaian (Guru/ustad tetap yayasan)
+  - Status Kepegawaian (Guru/ustad tetap yayasan)
+  - NIP
+  - Nomor Induk Yayasan (NIY) / Nomor Induk Guru/Ustad Kontrak (NIK)
+  - NUPTK
+  - Jenis Guru/Ustadz (guru kelas, mapel umum, mapel khusus (Bahasa Arab, ilmu fiqh, ilmu tauhid, ilmu tarekh), BK)
+  - SK Pengangkatan Yayasan
+  - TMT Penugasan Yayasan
+  - Lembaga Pengangkatan
+  - SK CPNS
+  - TMT CPNS
+  - Pangkat/Golongan
+  - Sumber Gaji (Yayasan, sekolah, Lembaga donor, APBN/D)
+
+10. Master Data	Manajemen Sekolah/Madrasah/Lembaga
+  - Nama Sekolah/Madrasah/Lembaga
+  - Nomor Statistik Sekolah/Nomor Statistik Madrasah
+  - NPSN Sekolah/Madrasah/Lembaga
+  - Bentuk Pendidikan (SD/MI, SMP/MTs, SMA/K MA/MAK)
+  - Status /Madrasah/Lembaga (Negeri/Swasta)
+  - Status Kepemilikan (Yayasan/Lembaga)
+  - SK Ijin Operasional
+  - Tanggal SK Ijin Operasional
+  - Alamat lengkap (rt, rw, kel/desa/dusun, Kec, Kab/Kota, Propinsi, Kodepos)
+  - url google maps / LB
+  - Nomor telepon sekolah
+  - Nomor telepon Fax
+  - email
+  - Website
+
+11. Master Data	Form Pelengkap
+  - Kebutuhan khusus/Difabel (dilayani/tidak dilayani)
+  - Kebutuhan khusus/Difabel (dilayani/tidak dilayani)
+  - SK Pendirian Sekolah
+  - Tanggal SK pendirian
+  - Nomor rekening Sekolah
+  - Nama Bank
+  - Cabang KCP/Unit
+  - Rekening atas nama
+  - Luas tanah milik
+  - Luas bangunan milik
+
+12. Master Data	Form Periodik
+  - Sumber listrik
+  - Sumber listrik
+  - Waktu penyelenggaraan sekolah
+  - Sertifikasi ISO
+  - Daya listrik (watt)
+  - Akses internet 
+
+13. Master Data	Form Sanitasi
+  - Sumber kecukupan air
+  - Sekolah memproses air sendiri
+  - Jumlah toilet laki-laki dan perempuan, 
+  - Jumlah toilet berkebutuhan khusus
+  - sumber air sanitasi
+  - ketersediaan air sanitasi
+  - jumlah tempat cuci tangan
+  - Sanitasi lain-lain
+
+14. Master Data	Manajemen Sarana dan prasarana Sekolah/Madrasah/Lembaga
+  - Ruang Kepala Sekolah/Madrasah/Lembaga
+  -	Ruang UKS
+  - Ruang Guru
+  - Ruang Laboratorium
+  - Ruang Kelas 1,2,3,4,5,6 (SD/MI)
+  - Ruang Kelas 7,8,9 (SD/MTs)
+  - Ruang Kelas 10,11,12 (SD/MA)
+  - Ruang lain-lain
+
+15. Master Data	Form Data Pelengkap Sarpras
+  - Komputer PC
+  - Komputer Laptop
+  - Infocus
+  - Kursi Guru
+  - Meja Guru
+  - Lemari
+  - Sarpras lain-lain
+
+16. Master Data	Form Data Buku
+  - Mata Pelajaran
+  - Tingkat Pendidikan
+  - Jenis Buku/Alat
+  - Nama Buku/Alat
+  - Jumlah Buku/Alat
+  - Status Kelaikan (baik / rusak)
+  - Lain-lain
+
+17. Master Data	Manajemen Kelas Form Jenis Kelas SD/MI
+  - Kelas Abu Bakar Ashidiq 1
+  - Kelas Abu Bakar Ashidiq 2
+  - Kelas Abu Bakar Ashidiq 3
+  - Kelas Abu Bakar Ashidiq 4
+  - Kelas Abu Bakar Ashidiq 5
+  - Kelas Abu Bakar Ashidiq 6
+
+18. Master Data Manajemen Kelas Form Jenis Kelas SMP/MTs
+  - Kelas Ustman bin Affan 7
+  - Kelas Ustman bin Affan 8
+  - Kelas Ustman bin Affan 9
+
+19. Master Data	Manajemen Kelas Form Jenis Kelas SMA-K/MA-K
+  - Kelas Umar Bin Khatab 10
+  - Kelas Umar Bin Khatab 11
+  - Kelas Umar Bin Khatab 12
+
+20 Modul Kesantrian
+  - Kelas
+  - Kamar
+  - Santri
+  - Tahfidz
+  - Nadhoman
+
+21. Akademik
+  - Tahun ajaran
+  - Semester
+  - Pindah naik kelas
+  - Pindah kelas
+  - Kelulusan
+  - Data Kitab
+  - Pelajaran
+  - Presensi
+  - Data hari libur
+
+22. Halaqoh
+  - Manajemen halaqoh
+    - pendaftaran santri
+    - group baru
+    - jadwal
+    - memilih Guru/Ustad
+  - Reminder
+    - Notifikasi jadwal yang akan datang
+  - Halaqoh	Absensi
+    - pencatatan kehadiran
+    - laporan kehadiran)
+
+23.  Keuangan
+  - Pembayaran Santri
+  - Setting pembayaran
+    - Akun Biaya
+    - Pos Bayar
+    - Jenis Bayar  
+  - Akuntansi
+    - General ledger
+    - Jurnal / Pencatatan Transaksi
+    - Buku besar
+    - Akun / Tagihan Murid/Santri
+    - laporan hutang
+    - laporan piutang
+    - Rekapan pendapatan per murid/santri
+  - Pembayaran Sekolah Formal
+    - Pendaftaran Siswa Baru
+    - Infaq
+    - Daftar Ulang Siswa Lama
+    - Raport, Foto dan Kartu Osis
+    - Kegiatan MATSAMA/MOS
+    - Sumbangan Peningkatan Mutu (SPM)
+    - Pembayaran SPP Bulanan
+    - Deposit Mondok
+    - Deposit Uang Pangkal/Bangunan
+    - Program Study Tour
+    - Kegiatan Tasyakur Akhirussanah
+    - Uang seragam
+    - Uang buku 
+    - Pembayaran Kamar Mondok
+    - Pembayaran makan minum
+    - Pembayaran lain-lain
+    - Laporan
+  - Pembayaran sekolah Pesantren (Non Formal)
+    - Pendaftran Santri Baru dan Biaya Masa Ta’aruf
+    - Pendaftran Santri Baru dan Biaya Masa Ta’aruf
+    - Syahriyah Madrasah Diniyah Salafiyah 1 Tahun
+    - Kegiatan ISNUDA (Ikatan Santri Nurul Huda)
+    - Paket Perlengkapan MDS (Sarung, Kitab, Raport)
+    - Program Kegiatan LPM (Lembaga Penjamin Mutu)
+    - Seragam Almamater Jasko Pesantren
+    - Infaq Pembangunan Pesantren
+    - Materai Surat Pernyataan
+    - Program Ziarah Wali 
+    - Kegiatan Tasyakur Akhirussanah
+    - Pembayaran Lain-lain
+    - Laporan
+  - Penagihan
+    - Unit tagihan
+    - Pemberitahuan Pembayaran
+    - Rekonsiliasi Pembayaran
+  - E-wallet & Payment
+    - E-wallet account
+    - Payment gateway linking
+    - Payment processing
+    - Deposit/Top-up
+    - Direct payment 
+    - Payment types
+    - Direct transfer
+    - Virtual account
+    - Dana
+    - GoPay
+    - OVO
+    - ShopeePay
+    - CASH KERAS
+    - Custodian bank registration and linking for withdrawing (dana, gopay, ovo, shopeepay)
+
+24. Alumni
+  - Nama
+  - Jenis Kelamin
+  - NIS / NISN
+  - NIK
+  - Tempat, Tanggal Lahir
+  - Nama Ayah, ibu dan Wali
+  - Alamat lengkap (rt, rw, kel/desa/dusun, Kec, Kab/Kota, Propinsi, Kodepos)
+  - Tahun Masuk
+  - Tahun Lulus
+  - Nomor Ijazah Kelulusan
+
+25. Laporan
+  - Laporan Kesantrian
+  - Laporan Akademik
+  - Laporan Pembayaran
+  - Laporan Keuangan
+    - Laporan Jurnal
+    - Laporan Kas Tunai
+    - Laporan Neraca
+    - Laporan Mutasi
+  - Laporan Tabungan
+
+26. Pimpinan
+  - Analisis Performa Sekolah/Madrasah/Lembaga
+  - Statistik
+
+27. Pengaturan
+  - Sekolah
+  - Murid/Santri
+  - Informasi
+  - Manajemen Pengguna/Hak Akses/role
+  - Reset Password
+  - Backup Database
+  - Cek Log Transaksi
+  - Cek Log Pengguna
+
+28. Pengaduan / Costumer Support
+  - FAQ (Frequently Asked Questions)
+  - Open ticket 
+  - Support management
+    - Discussion
+    - Reply templates
+    - Ticket closing
+
+29. eAsset
+  - Inventaris
+  - Registrasi aset baru
+  - Pelacakan/pemantauan
+  - Penghapusan 
+  - Pemeliharaan/perbaikan
+
+30. Donasi
+  - Galery program donasi
+  - Nama pendonasi
+  - Nomor whatsapp
+  - Email
+  - Nominal donasi
+  - Laporan donasi/rekap
+
+31. Penginapan	Data Penginapan/pencatatan
+  - Data Penginapan
+    - nama pemilik penginapan,
+    - nama penginapan
+    - harga
+    - deskripsi
+    - link google maps (link penginapan/latitude)
+  - Laporan/Rekap
+    - jumlah penginapan tersedia
+    - jumlah penginapan kosong
+
+32. Logout
+  - Logout sistem
